@@ -1,0 +1,56 @@
+; =====================================================================
+;  g20yea.jp  ゾーンファイル（Cloudflare インポート用 / BIND形式）
+;  作成: 2026-11-13  元データ: さくらインターネットDNS（公開DNSで確認）
+;
+;  Cloudflare: DNS → Records → Import and Export → このファイルを Import
+;  ※ SOA / NS は Cloudflare が自動で設定するため記載していません
+;  ※ cf_tags=cf-proxied:false … GitHub Pages が HTTPS 証明書を発行できるよう
+;    Web 用レコードは「DNS only（グレー雲）」で取り込みます
+; =====================================================================
+$ORIGIN g20yea.jp.
+$TTL 3600
+
+; ---------------------------------------------------------------------
+; Web: GitHub Pages（旧: さくらのレンタルサーバ 219.94.155.251）
+; ---------------------------------------------------------------------
+@        3600  IN  A      185.199.108.153   ; cf_tags=cf-proxied:false
+@        3600  IN  A      185.199.109.153   ; cf_tags=cf-proxied:false
+@        3600  IN  A      185.199.110.153   ; cf_tags=cf-proxied:false
+@        3600  IN  A      185.199.111.153   ; cf_tags=cf-proxied:false
+@        3600  IN  AAAA   2606:50c0:8000::153 ; cf_tags=cf-proxied:false
+@        3600  IN  AAAA   2606:50c0:8001::153 ; cf_tags=cf-proxied:false
+@        3600  IN  AAAA   2606:50c0:8002::153 ; cf_tags=cf-proxied:false
+@        3600  IN  AAAA   2606:50c0:8003::153 ; cf_tags=cf-proxied:false
+www      3600  IN  CNAME  wordplugin.github.io. ; cf_tags=cf-proxied:false
+
+; ---------------------------------------------------------------------
+; メール: Google Workspace（現行のまま）
+; ---------------------------------------------------------------------
+@        3600  IN  MX     1 smtp.google.com.
+
+; SPF: 旧サーバー(www461b.sakura.ne.jp)を外し、Google の送信元を追加
+;   旧値: "v=spf1 a:www461b.sakura.ne.jp mx ~all"
+@        3600  IN  TXT    "v=spf1 include:_spf.google.com ~all"
+
+; DMARC（現行のまま）
+_dmarc   3600  IN  TXT    "v=DMARC1; p=quarantine; aspf=r; adkim=r"
+
+; DKIM: Google 管理コンソールで生成した値に差し替えてから有効化してください
+;   管理コンソール → アプリ → Google Workspace → Gmail → メールの認証
+; google._domainkey 3600 IN TXT "v=DKIM1; k=rsa; p=（管理コンソールに表示される値）"
+
+; ---------------------------------------------------------------------
+; 所有権の確認
+; ---------------------------------------------------------------------
+; Google（Search Console / Workspace）（現行のまま）
+@        3600  IN  TXT    "google-site-verification=bw78niDZk8FdMAAI9rpFGmCrwV5axh34iFk2xTULw0M"
+
+; GitHub Pages のドメイン確認（任意・推奨）
+;   GitHub → Settings → Pages → Verified domains → Add で表示される値に差し替え
+; _github-pages-challenge-wordplugin 3600 IN TXT "（GitHub に表示される値）"
+
+; ---------------------------------------------------------------------
+; 移行しないレコード（さくらのレンタルサーバ用・解約後は不要）
+; ---------------------------------------------------------------------
+; mail     3600  IN  CNAME  g20yea.jp.
+; ftp      3600  IN  CNAME  g20yea.jp.
