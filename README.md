@@ -31,3 +31,13 @@ https://g20yea.jp/ （WordPress）を静的HTMLに変換し、GitHub Pages で�
 ## 更新方法
 
 `docs/` 内の HTML を直接編集してコミットすると、自動で反映されます。
+
+## 「最近の活動」ページ（`docs/activities/`）
+
+公式 Instagram（@g20yea_japan_council）の投稿から作成したページです。
+写真は `docs/wp-content/uploads/instagram/` に保存しています。投稿を追加するときは
+`scripts/build_activities.py` の `EVENTS` に写真ファイル名・日付・文章を追記し、次を実行してください。
+
+```
+python3 scripts/build_activities.py docs
+```
