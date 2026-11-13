@@ -22,22 +22,34 @@ https://g20yea.jp/ （WordPress）を静的HTMLに変換し、GitHub Pages で�
 
 ※ `ask@g20yea.jp` などのメール（MX レコード）は変更しないでください。
 
-## 静的化に伴う変更点
+## サイトの構成
 
-- コメント投稿フォーム、RSS フィード、WordPress API へのリンクは削除（静的サイトでは動作しないため）
-- 入会申し込みフォームは Google フォームの埋め込みなので、そのまま動作します
-- `?ver=...` 付きのファイル名は GitHub Pages で配信できるよう名前を変更しています
+- `docs/` … 公開されるサイト本体（HTMLは自動生成。直接編集しないでください）
+  - `docs/assets/css/site.css` … デザイン（色・文字・レイアウト）
+  - `docs/assets/js/site.js` … メニュー開閉・スクロール演出・数字のカウントアップ
+  - `docs/wp-content/uploads/` … 画像（旧WordPressから引き継いだ写真とInstagramの写真）
+- `scripts/site/build.py` … 全ページを生成するスクリプト
+- `scripts/site/members.json` … メンバー・スタッフ・メンバー紹介ページの内容
+- `scripts/site/activities.py` … 「最近の活動」ページの内容
+- `scripts/check.js` … リンク切れチェック（Playwright）
 
 ## 更新方法
 
-`docs/` 内の HTML を直接編集してコミットすると、自動で反映されます。
-
-## 「最近の活動」ページ（`docs/activities/`）
-
-公式 Instagram（@g20yea_japan_council）の投稿から作成したページです。
-写真は `docs/wp-content/uploads/instagram/` に保存しています。投稿を追加するときは
-`scripts/build_activities.py` の `EVENTS` に写真ファイル名・日付・文章を追記し、次を実行してください。
+1. 内容を変える
+   - メンバー・スタッフ：`scripts/site/members.json` を編集（写真は `docs/wp-content/uploads/` に置いてパスを書く）
+   - 最近の活動：`scripts/site/activities.py` の `EVENTS` に追記（写真は `docs/wp-content/uploads/instagram/<投稿ID>.jpg`）
+   - トップページなどの文章：`scripts/site/build.py` を編集
+2. ページを生成する
 
 ```
-python3 scripts/build_activities.py docs
+python3 scripts/site/build.py docs
 ```
+
+3. 生成された `docs/` をコミットして push すると、GitHub Pages に反映されます。
+
+## 旧WordPressからの変更点
+
+- デザインを一新（WordPressテーマ Lightning は使っていません）。URLは旧サイトと同じです
+- コメント欄、RSSフィード、WordPress API は廃止
+- 入会申し込みフォームは Google フォームの埋め込みなので、そのまま動作します
+- 「組織」「G20YEA Summit 2025」ページは旧サイトでも本文が空だったため「準備中」と表示しています

@@ -1,0 +1,634 @@
+{
+ "order": [
+  "members-info-isao-teramoto",
+  "members-info-harutaro-sugiura",
+  "メンバー紹介",
+  "members-info-tugu-odbayar",
+  "members-info-daisuke-horita",
+  "members-info-kota-aoki",
+  "members-info-yoshiko-masuda",
+  "members-info-shogo-fukuda",
+  "members-info-yutaka-kodera",
+  "members-info-takuya-masuyama"
+ ],
+ "members": [
+  {
+   "name": "青木 孝太",
+   "role": "",
+   "photo": "",
+   "slug": "members-info-kota-aoki"
+  },
+  {
+   "name": "黄 文俊",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/f624a5f89e944d8cb848a12de25bb099.jpeg",
+   "slug": "menbers-info-winjun-huwang"
+  },
+  {
+   "name": "小寺 裕",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/kodera-YU.jpg",
+   "slug": "members-info-yutaka-kodera"
+  },
+  {
+   "name": "杉浦 晴太郎",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/dcae6b8cc63e6b82a80f02d098e4cd19.jpg",
+   "slug": "members-info-harutaro-sugiura"
+  },
+  {
+   "name": "寺本 勲",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/31666a787d1064c65245f62ee519854a.jpeg",
+   "slug": "members-info-isao-teramoto"
+  },
+  {
+   "name": "Tugu Odbayar",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/Tugu-Odbayar-Tugu-Odbayar.jpg",
+   "slug": "members-info-tugu-odbayar"
+  },
+  {
+   "name": "野元 友貴",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/11652e0e86e0c14ff68860c40cdfb5d9.jpeg",
+   "slug": "members-info-tomoyuki-nomoto"
+  },
+  {
+   "name": "福田 祥吾",
+   "role": "",
+   "photo": "",
+   "slug": "members-info-shogo-fukuda"
+  },
+  {
+   "name": "堀田 大輔",
+   "role": "",
+   "photo": "",
+   "slug": "members-info-daisuke-horita"
+  },
+  {
+   "name": "増田 よしこ",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/eea6e93d7be86e908f3d0d72c57848e6.png",
+   "slug": "members-info-yoshiko-masuda"
+  },
+  {
+   "name": "増山 拓也",
+   "role": "",
+   "photo": "wp-content/uploads/2025/10/f27500aa299a275d5d104513bc98cdb5.png",
+   "slug": "members-info-takuya-masuyama"
+  }
+ ],
+ "staff": [
+  {
+   "name": "北村 麻里衣",
+   "role": "President",
+   "photo": "wp-content/uploads/2025/10/S__116670508_0.jpg",
+   "slug": ""
+  },
+  {
+   "name": "鎌田 長明",
+   "role": "President代行",
+   "photo": "wp-content/uploads/2025/10/9cdb98a06fe1129beaea284bc4d9747f.png",
+   "slug": ""
+  },
+  {
+   "name": "中條 秀人",
+   "role": "President代行",
+   "photo": "wp-content/uploads/2025/10/622c23062768491638015f38e6c51378.png",
+   "slug": ""
+  },
+  {
+   "name": "黄 文俊",
+   "role": "Vice President",
+   "photo": "wp-content/uploads/2025/10/f624a5f89e944d8cb848a12de25bb099.jpeg",
+   "slug": "menbers-info-winjun-huwang"
+  },
+  {
+   "name": "河野 翔太",
+   "role": "Vice President",
+   "photo": "wp-content/uploads/2025/10/S__116670512_0.jpg",
+   "slug": ""
+  },
+  {
+   "name": "若山 アレックス 大樹",
+   "role": "渉外委員長（副シェルパ）",
+   "photo": "wp-content/uploads/2025/10/967882177201e2bcdde3e9e36d4bb770.png",
+   "slug": ""
+  },
+  {
+   "name": "岡田 崇志",
+   "role": "事務局長",
+   "photo": "wp-content/uploads/2025/10/261a894f2dc895f4ca3f8725ce5b37ef.png",
+   "slug": ""
+  },
+  {
+   "name": "増田 よしこ",
+   "role": "会計広報幹事",
+   "photo": "wp-content/uploads/2025/10/eea6e93d7be86e908f3d0d72c57848e6.png",
+   "slug": "members-info-yoshiko-masuda"
+  }
+ ],
+ "profiles": {
+  "members-info-kota-aoki": {
+   "slug": "members-info-kota-aoki",
+   "title": "メンバー紹介〜青木孝太〜",
+   "date": "2025-10-31",
+   "photo": "",
+   "images": [],
+   "fields": [
+    [
+     "会社名",
+     "武豊屋株式会社"
+    ],
+    [
+     "所在地",
+     "〒475-0823　愛知県半田市港町3-100"
+    ],
+    [
+     "会社HP URL",
+     "[[https://taketoyoya.co.jp/|https://taketoyoya.co.jp/]]"
+    ],
+    [
+     "業種カテゴリ",
+     "卸売業、小売業"
+    ],
+    [
+     "業務内容",
+     "鉄鋼製品・ステンレス製品の卸売"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "Amazonよりも早い即納体制（愛知県内に限る）"
+    ]
+   ],
+   "name": "青木 孝太"
+  },
+  "menbers-info-winjun-huwang": {
+   "slug": "menbers-info-winjun-huwang",
+   "title": "メンバー紹介〜黄文俊〜",
+   "date": "2025-10-30",
+   "photo": "wp-content/uploads/2025/10/f624a5f89e944d8cb848a12de25bb099.jpeg",
+   "images": [
+    "wp-content/uploads/2025/10/a26519d39da9623f423015127cee6020-1024x512.jpeg"
+   ],
+   "fields": [
+    [
+     "メールアドレス",
+     "[[mailto:hwjdqq@hotmail.com|hwjdqq@hotmail.com]]"
+    ],
+    [
+     "連絡先（WhatsApp）",
+     "+81-80-4032-0802"
+    ],
+    [
+     "会社名",
+     "合同会社ココ華"
+    ],
+    [
+     "所在地",
+     "徳島県徳島市住吉2-3-43プレジール白鵬102"
+    ],
+    [
+     "業種カテゴリ",
+     "卸売業、小売業, サービス業"
+    ],
+    [
+     "業務内容",
+     "貿易、大口取引コンサルティング"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "海外連携、現地サポートを得意としております！"
+    ]
+   ],
+   "name": "黄 文俊"
+  },
+  "members-info-yutaka-kodera": {
+   "slug": "members-info-yutaka-kodera",
+   "title": "メンバー紹介〜小寺裕〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/kodera-YU.jpg",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "koderayuu@gmail.com"
+    ],
+    [
+     "連絡先",
+     "+81-80-1048-4084"
+    ],
+    [
+     "会社名",
+     "ゆきぐに新電力株式会社"
+    ],
+    [
+     "所在地",
+     "【本社】〒949-6408　新潟県南魚沼市塩沢1200　\n【新潟営業所】新潟県新潟市中央区紫竹山3丁目6番62号　\n【上越営業所】新潟県上越市栄町７番6号太陽ビル３Ｆ"
+    ],
+    [
+     "会社HP URL",
+     "[[https://yukiguni.co.jp|https://yukiguni.co.jp]]"
+    ],
+    [
+     "業種カテゴリ",
+     "電気・ガス・熱供給・水道業"
+    ],
+    [
+     "業務内容",
+     "小売電気事業"
+    ],
+    [
+     "売上",
+     "売上16.4億円（2025年6月末時点）"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "・日本全国で電力小売事業を展開し、電気料金の削減を実現。\n・再生可能エネルギー（太陽光・風力・水力など）の電源開発を推進。\n・NON-FIT電源やFIT終了後電源の買取を積極的に実施。\n・公益社団法人日本青年会議所の賛助企業として、地域社会や青年経済人との連携を強化。\n・不動産事業の経営を兼務し、エネルギーと不動産の両面から地域活性化に貢献。\n・行政書士事務所の代表として、外国人のビザ申請や会社設立手続きなど幅広い法務支援を展開。"
+    ]
+   ],
+   "name": "小寺 裕"
+  },
+  "members-info-harutaro-sugiura": {
+   "slug": "members-info-harutaro-sugiura",
+   "title": "メンバー紹介〜杉浦晴太郎〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/dcae6b8cc63e6b82a80f02d098e4cd19.jpg",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "vpg.in.m.c@gmail.com"
+    ],
+    [
+     "連絡先",
+     "+81-80-5121-1225"
+    ],
+    [
+     "会社名",
+     "杉治株式会社"
+    ],
+    [
+     "所在地",
+     "〒447-0847　愛知県碧南市音羽町4丁目69番地"
+    ],
+    [
+     "業種カテゴリ",
+     "農業、林業, 不動産業、物品賃貸業"
+    ],
+    [
+     "業務内容",
+     "自社所有の土地及び建物の賃貸\n自社所有の山林にて杉及び桧の生産"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "・地域に喜ばれる商業施設の誘致を得意としている\n・借主の希望に沿うオフィスビルの提案を得意としている\n・適切な山林管理を主とした国土保全を得意としている"
+    ]
+   ],
+   "name": "杉浦 晴太郎"
+  },
+  "members-info-isao-teramoto": {
+   "slug": "members-info-isao-teramoto",
+   "title": "メンバー紹介〜寺本勲〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/31666a787d1064c65245f62ee519854a.jpeg",
+   "images": [
+    "wp-content/uploads/2025/10/4ddbbd11b5fc0be1054d3f18bb2d6165.jpeg"
+   ],
+   "fields": [
+    [
+     "メールアドレス",
+     "teramotoisao@gmail.com"
+    ],
+    [
+     "連絡先",
+     "+81-90-3358-7444"
+    ],
+    [
+     "会社名",
+     "株式会社Tera"
+    ],
+    [
+     "所在地",
+     "【本社】〒798-0064 愛媛県宇和島市佐伯町1-2-33 \n【東京店舗】〒104-0064 東京都中央区銀座2-14-5三光ビル503 merveille de GINZA"
+    ],
+    [
+     "業種カテゴリ",
+     "サービス業"
+    ],
+    [
+     "業務内容",
+     "美容、痩身サロン経営、書籍の音声化事業、楽曲制作、音声収録、声優、ナレーター、歌手のキャスティング、ほか"
+    ],
+    [
+     "売上",
+     "年間2,000-3,000万円"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "世界トップレベルのメソッドを使った、痩身、小顔施術。\n日本を代表するアニメ『鬼滅の刃』で挿入歌、コーラスを担当する中川奈美をはじめ、一流のプレーヤーをキャスティングできるネットワーク。\nまた、ゼロからオリジナル楽曲を制作できる音楽パワーチームなどもメンバーにいるので、幅広い制作活動ができる。"
+    ]
+   ],
+   "name": "寺本 勲"
+  },
+  "members-info-tugu-odbayar": {
+   "slug": "members-info-tugu-odbayar",
+   "title": "メンバー紹介〜Tugu Odbayar〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/Tugu-Odbayar-Tugu-Odbayar.jpg",
+   "images": [
+    "wp-content/uploads/2025/10/company-Tugu-Odbayar-1024x488.jpg"
+   ],
+   "fields": [
+    [
+     "メールアドレス",
+     "tugu@nmtgroup.jp"
+    ],
+    [
+     "連絡先",
+     "+81-80-9435-4255"
+    ],
+    [
+     "会社名",
+     "株式会社NMT Japan (NMT Group)"
+    ],
+    [
+     "所在地",
+     "〒107-0062 東京本社　東京都港区南青山3-3-3 リビエラ南青山B館3階"
+    ],
+    [
+     "会社HP URL",
+     "[[https://nmtgroup.jp/|https://nmtgroup.jp/]]"
+    ],
+    [
+     "業種カテゴリ",
+     "卸売業、小売業, 教育、学習支援業, 医療、福祉, サービス業"
+    ],
+    [
+     "業務内容",
+     "医療アートメイク\nスクール事業\nコンサルティング・人材紹介事業\n情報メディア運営\n製品販売事業\nクリニック運営\n\n医療機器製造販売\n研究・開発事業\n申請・代行事業\n\n化粧品製造販売\n研究・開発事業\n申請・代行事業\n\nソーシャルエンタープライズ\nカンボジア医療支援\n海外インフラ整備支援\n患者会支援\n環境保護支援\n女性活躍支援"
+    ],
+    [
+     "売上",
+     "3.5百万USドル"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "New Medical Technology = NMT Groupは\n① 「Business」パートナーとして未来の成長を共に\n医療機器・化粧品の製造販売から研究開発、登録申請代行まで一貫してサポート。環境への配慮と高品質を両立し、お客様の成功を共に築く成長パートナーです。\n\n② 「Medical」医療関係者の成功を支える総合サービス\n医療アートメイクスクール®「PGC Schools」を軸に、人材紹介・開業支援・海外医療事業を展開。医療従事者の成長と現場の発展を多角的に支援します。\n\n③ 「Individual」毎日の暮らしに、小さな幸せを\nエコブランド「FENICE」や「Save ME」、高品質な生胡椒など、人と地球にやさしい製品を提供。クリーンビューティから食まで、日常に新しい価値を届けます。"
+    ]
+   ],
+   "name": "Tugu Odbayar"
+  },
+  "members-info-tomoyuki-nomoto": {
+   "slug": "members-info-tomoyuki-nomoto",
+   "title": "メンバー紹介〜野元友貴〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/11652e0e86e0c14ff68860c40cdfb5d9.jpeg",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "nomoto@recircur.com"
+    ],
+    [
+     "連絡先",
+     "＋97699869710"
+    ],
+    [
+     "会社名",
+     "合同会社Re circuration"
+    ],
+    [
+     "所在地",
+     "〒244 -0815 神奈川県横浜市戸塚区下倉田町1877-7-415"
+    ],
+    [
+     "業種カテゴリ",
+     "卸売業、小売業"
+    ],
+    [
+     "業務内容",
+     "日本食品を中心とした輸出"
+    ],
+    [
+     "売上",
+     "1,000,000 USドル"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "食品メーカー12社及び大手食品卸と提携し輸出を行っている。\nまた現地のスーパーマーケットの開発およびコンサルティングも併せて行っております。"
+    ]
+   ],
+   "name": "野元 友貴"
+  },
+  "members-info-shogo-fukuda": {
+   "slug": "members-info-shogo-fukuda",
+   "title": "メンバー紹介〜福田祥吾〜",
+   "date": "2025-10-31",
+   "photo": "",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "shogo.fukuda8@gmail.com"
+    ],
+    [
+     "連絡先",
+     "+81-90-8191-8424"
+    ],
+    [
+     "会社名",
+     "福田祥吾税理士事務所"
+    ],
+    [
+     "所在地",
+     "〒570-0053　大阪府守口市高瀬町5-1-6"
+    ],
+    [
+     "業種カテゴリ",
+     "学術研究、専門・技術サービス業"
+    ],
+    [
+     "業務内容",
+     "税理士業"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "資産税業務、法人税業務"
+    ]
+   ],
+   "name": "福田 祥吾"
+  },
+  "members-info-daisuke-horita": {
+   "slug": "members-info-daisuke-horita",
+   "title": "メンバー紹介〜堀田大輔〜",
+   "date": "2025-10-31",
+   "photo": "",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "sr@iforest.top"
+    ],
+    [
+     "連絡先",
+     "+81-70-8950-2812"
+    ],
+    [
+     "会社名",
+     "社会保険労務士法人アイフォレスト"
+    ],
+    [
+     "所在地",
+     "〒770-0867　徳島県徳島市新南福島1丁目1番14号"
+    ],
+    [
+     "会社HP URL",
+     "[[https://iforest-ls.com/|https://iforest-ls.com/]]"
+    ],
+    [
+     "業種カテゴリ",
+     "学術研究、専門・技術サービス業"
+    ],
+    [
+     "業務内容",
+     "人事・労務相談業務\nコンサルティング業務\nアウトソーシング業務\n社員研修・セミナー講師業務"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "【人事・労務相談業務】\n労働契約、就業規則等に関する相談\n労働保険・社会保険等に関する相談\n労働時間管理、割増賃金その他賃金に関する相談\nメンタルヘルス対策、ハラスメント対策等に関する相談\n行政指導、外部監査等に対する相談\nその他、採用から退職までの人事労務管理全般に関する相談「晴れた日に傘を押し付けるのではなく、曇りはもちろん、大雨になってもそっと寄り添い傘をお渡しできる、そんなサービスをお届けしたい」"
+    ]
+   ],
+   "name": "堀田 大輔"
+  },
+  "members-info-yoshiko-masuda": {
+   "slug": "members-info-yoshiko-masuda",
+   "title": "メンバー紹介〜増田よしこ〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/eea6e93d7be86e908f3d0d72c57848e6.png",
+   "images": [
+    "wp-content/uploads/2025/10/43b158abe968b9c0ecbda93f9bf5e1c1.png"
+   ],
+   "fields": [
+    [
+     "メールアドレス",
+     "[[mailto:contact@example.com|info@duology.co.jp]]"
+    ],
+    [
+     "連絡先",
+     "+81-3-3280-2995"
+    ],
+    [
+     "会社名",
+     "DUOLOGY株式会社"
+    ],
+    [
+     "所在地",
+     "〒108-0072 東京都港区白金3丁目12番15号"
+    ],
+    [
+     "会社HP URL",
+     "[[https://www.duology.co.jp|https://www.duology.co.jp]]"
+    ],
+    [
+     "業種カテゴリ",
+     "卸売業、小売業"
+    ],
+    [
+     "業務内容",
+     "英国SDGs雑貨輸入ならびに日本SDGs製品輸出コンサルタント"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "・英国大使館との長年のお付き合いから、彼らの推薦する製品でSDGsを強く意識し実践している製品の輸入をしています。\n・また伊勢神宮との関係から、日本酒やその他日本における優れたい製品を世界に紹介するお手伝いをさせていただいております。\n・英国を中心とした教育機関との強いつながりから、各国とのパートナーシップを組み、サステナビリティをテーマにするカンファレンスの開催などを実践してきました。"
+    ]
+   ],
+   "name": "増田 よしこ"
+  },
+  "members-info-takuya-masuyama": {
+   "slug": "members-info-takuya-masuyama",
+   "title": "メンバー紹介〜増山拓也〜",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/f27500aa299a275d5d104513bc98cdb5.png",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "fis.mashiyama@gmail.com"
+    ],
+    [
+     "連絡先",
+     "+81-90-2726-6073"
+    ],
+    [
+     "会社名",
+     "株式会社FIS　株式会社インクル"
+    ],
+    [
+     "所在地",
+     "〒307-0001 茨城県結城市結城7293-2"
+    ],
+    [
+     "業種カテゴリ",
+     "金融業、保険業"
+    ],
+    [
+     "業務内容",
+     "元本確保型の投資信託やビットコインETFを始めとするオフショア地域の金融商品の販売と暗号資産の販売業"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "ビットコインETFをはじめ、世界中の180種類のファンドから最適なポートフォリオをコンサルすることが可能です。日本では購入できないファンドも多数ございます。元本確保型の積立投資信託は、15年で140%、20年で160%の最低保証があります。"
+    ]
+   ],
+   "name": "増山 拓也"
+  },
+  "メンバー紹介": {
+   "slug": "メンバー紹介",
+   "title": "メンバー紹介",
+   "date": "2025-10-31",
+   "photo": "wp-content/uploads/2025/10/fc033c319de973a7ec6d39354d20d366.png",
+   "images": [],
+   "fields": [
+    [
+     "メールアドレス",
+     "hisyoka@j-lease.jp"
+    ],
+    [
+     "連絡先",
+     "+81-97-502-4127"
+    ],
+    [
+     "会社名",
+     "ジェイリース株式会社"
+    ],
+    [
+     "所在地",
+     "【大分本社 】〒870-0034 大分県大分市都町1丁目3番19号　大分中央ビル7階 \n【東京本社】 〒163-1102 東京都新宿区西新宿6丁目22番1号　新宿ス代クエアタワー2階"
+    ],
+    [
+     "会社HP URL",
+     "[[https://www.j-lease.jp/|https://www.j-lease.jp/]]"
+    ],
+    [
+     "業種カテゴリ",
+     "保証関連事業"
+    ],
+    [
+     "業務内容",
+     "保証関連事業\n〔家賃債務保証、医療費保証、養育費保証〕"
+    ],
+    [
+     "売上",
+     "172億6,700万円(2025年3月期)"
+    ],
+    [
+     "社業における得意分野・PRポイント",
+     "（１）PRポイント\n・社会課題を事業機会に、住居用賃料・事業用賃料・医療費・養育費・外国人専門不動産へ展開。\n・家賃債務保証業界で売上成長額トップ（専業保証会社、当社調べ）\n（２）当社の強み\n・信頼性と評価（家賃業界唯一）\n東京証券取引所プライム市場上場（証券コード：7187）\nForbes Asia’s 200 Best Under A Billion（2025）選出\n・競争優位\n業界No.1の全国拠点×人財育成による機動営業\nAI与信×丁寧な顧客対応でリスク抑制と満足度を両立。\nアジャイルな商品開発と有力企業アライアンス、グループシナジーで提供価値を拡張。\n・アジア・東南アジアへの海外展開を調査中。\n（３）日本における家賃債務保証サービスの社会的役割について\n①住居用物件保証\n20～30年前の日本では、賃貸入居に個人の連帯保証人が必須で、敷金・保証金も2～3ヶ月分が一般的。\n核家族化の進展により「保証人を立てられない」人が増え、機動的な住み替えが難しい社会課題に対して、家賃債務保証の仕組みが普及。\n現在は、保証会社が入居者と貸主の間でリスクを引き受けることで、連帯保証人がいなくても契約が進み、初期費用も0～1ヶ月分へと低減するケースが増えている。\n滞納時には保証会社が貸主へ弁済し、契約で定める極度額の範囲で家賃や原状回復費などをカバーするのが一般的。\n②事業用物件保証\n店舗・オフィスの賃貸は出店時に多額の敷金・保証金が求められるのが一般的。\nオーナーは与信リスクをヘッジしたい一方、ベンチャー・スタートアップは資金を運転資金や成長投資へ回したい。\n家賃債務保証を活用すれば、滞納リスクを保証会社が引き受け、テナントの初期負担を抑制。資金繰りが改善され、出店支援・成長支援に繋がる。\n結果として、物件の稼働率やキャッシュフローが安定し、地域の商業活性化も後押し。"
+    ]
+   ],
+   "name": ""
+  }
+ }
+}
