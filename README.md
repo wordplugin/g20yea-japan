@@ -1,9 +1,7 @@
 # G20YEA Japan Council ウェブサイト（GitHub Pages版）
 
-https://g20yea.jp/ （WordPress）を静的HTMLに変換し、GitHub Pages で公開するためのリポジトリです。
+https://g20yea.jp/ を GitHub Pages で公開するためのリポジトリです（旧WordPressサイトから移行）。
 
-- `docs/` … 公開されるサイト本体（WordPress から取得した静的HTML・画像・CSS・JS）
-- `scripts/` … 変換・検査に使ったスクリプト（公開はされません）
 
 ## 公開手順
 
